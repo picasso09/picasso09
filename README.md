@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋, I'm picasso </h3>
+● enthusiast Developer <br>
+● Kernel Dev and Newbie Dev <br>
+>
 
 <!--
 **picasso09/picasso09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
