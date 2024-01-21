@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋, I'm picasso </h3>
+<h3 align="center"> Hi there 👋, I'm picasso/picasso09 </h3>
 
 Here are some ideas to get you started:
 
