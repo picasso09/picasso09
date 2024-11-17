@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RMX218X
+- 🔭 I’m currently working on ROCK / STONE ( POCO M5 )
 - 🌱 I’m currently learning android 
 - 💬 I'M No0b"-
  
