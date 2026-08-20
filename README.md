@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 💬 I'M No0b"-
  
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/picasso09?style=social"> ![Github Badge](https://img.shields.io/badge/RzaIX-🤝partner-fff?logo=github)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%40picassoඞ-9cf?logo=telegram)](https://t.me/picasso170606) ![](https://komarev.com/ghpvc/?username=picasso)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40picassoඞ-9cf?logo=telegram)](https://t.me/picasso170606) ![](https://komarev.com/ghpvc/?username=picasso09)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=picasso09&theme=dracula)](https://git.io/streak-stats)
